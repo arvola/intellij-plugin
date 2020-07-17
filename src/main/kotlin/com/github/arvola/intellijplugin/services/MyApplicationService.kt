@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.arvola.intellijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.arvola.intellijplugin.MyBundle
 
 class MyApplicationService {
 
